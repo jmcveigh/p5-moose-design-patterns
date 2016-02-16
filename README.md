@@ -1,2 +1,49 @@
 # perl-design-patterns
-This is my, entirely unique, collection of Perl Design Patterns utilizing Moose!
+# zenbae
+
+This is a repository used to store my Perl design patterns utilizing Moose.
+
+Creational patterns
+-------------------
+
+- Abstract factory pattern
+- Builder pattern
+- Factory method pattern
+- Lazy initializatoion pattern
+- Object pool
+- Prototype pattern
+- Singleton pattern
+
+Structural patterns
+-------------------
+- Adaptor pattern
+- Bridge pattern
+- Composite pattern
+- Decorator pattern
+- Facade pattern
+- Flyweight pattern
+- Proxy pattern
+
+Behavioral patterns
+-------------------
+- Command pattern
+- Mediator pattern
+- State machine
+- Strategy pattern
+- Observer pattern
+- Visitor pattern
+- Template pattern
+- Memento pattern
+
+Concurrency patterns
+--------------------
+- Active Object pattern
+- Balking
+- Double Checked Locking
+- Guarded Suspension
+- Lock
+- Thread Local Storage
+
+This software is distributed under The Nethack General Public License.
+Commercial sale is licensed by Georgian College of Orillia, Ontario, Canada.
+See Also : {{ http://opensource.org/licenses/NGPL }}
