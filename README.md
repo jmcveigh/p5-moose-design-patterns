@@ -43,7 +43,3 @@ Concurrency patterns
 - Guarded Suspension
 - Lock
 - Thread Local Storage
-
-This software is distributed under The Nethack General Public License.
-Commercial sale is licensed by Georgian College of Orillia, Ontario, Canada.
-See Also : {{ http://opensource.org/licenses/NGPL }}
