@@ -1,5 +1,4 @@
 # perl-design-patterns
-# zenbae
 
 This is a repository used to store my Perl design patterns utilizing Moose.
 
