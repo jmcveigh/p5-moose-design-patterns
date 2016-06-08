@@ -1,6 +1,6 @@
-# perl-design-patterns
+# p5-moose-design patterns
 
-This is a repository used to store my Perl design patterns utilizing Moose.
+This is my, entirely unique, collection of Perl Design Patterns based on Moose!
 
 Creational patterns
 -------------------
